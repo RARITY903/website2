@@ -1,0 +1,148 @@
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css
+File Name: C:\Downloaded Web Sites\www.glaciersoftware.xyz\ajax\libs\font-awesome\6.4.0\css\all.min-2.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\www.glaciersoftware.xyz\ajax\libs\font-awesome\6.4.0\webfonts\fa-brands-400-2.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\www.glaciersoftware.xyz\ajax\libs\font-awesome\6.4.0\webfonts\fa-brands-400-2.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\www.glaciersoftware.xyz\ajax\libs\font-awesome\6.4.0\webfonts\fa-regular-400-2.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\www.glaciersoftware.xyz\ajax\libs\font-awesome\6.4.0\webfonts\fa-regular-400-2.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\www.glaciersoftware.xyz\ajax\libs\font-awesome\6.4.0\webfonts\fa-solid-900-2.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\www.glaciersoftware.xyz\ajax\libs\font-awesome\6.4.0\webfonts\fa-solid-900-2.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-v4compatibility.ttf
+File Name: C:\Downloaded Web Sites\www.glaciersoftware.xyz\ajax\libs\font-awesome\6.4.0\webfonts\fa-v4compatibility-2.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-v4compatibility.woff2
+File Name: C:\Downloaded Web Sites\www.glaciersoftware.xyz\ajax\libs\font-awesome\6.4.0\webfonts\fa-v4compatibility-2.woff2
+Content Type: application/octet-stream
+
+Uri: https://fonts.googleapis.com/css2?family=Geologica:wght@100..900&family=Libertinus+Math&display=swap
+File Name: C:\Downloaded Web Sites\www.glaciersoftware.xyz\css2-2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/geologica/v4/oY1o8evIr7j9P3TN9YwNAdyjzUyDKkKdAGOJh1UlCDUIhAIdhCZOn1fLsig7jfvCCPHZckU8H3G11_z-_OZqD0HrQ-M.ttf
+File Name: C:\Downloaded Web Sites\www.glaciersoftware.xyz\s\geologica\v4\oY1o8evIr7j9P3TN9YwNAdyjzUyDKkKdAGOJh1UlCDUIhAIdhCZOn1fLsig7jfvCCPHZckU8H3G11_z-_OZqD0HrQ-M-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/geologica/v4/oY1o8evIr7j9P3TN9YwNAdyjzUyDKkKdAGOJh1UlCDUIhAIdhCZOn1fLsig7jfvCCPHZckU8H3G11_z-_OZqD5_rQ-M.ttf
+File Name: C:\Downloaded Web Sites\www.glaciersoftware.xyz\s\geologica\v4\oY1o8evIr7j9P3TN9YwNAdyjzUyDKkKdAGOJh1UlCDUIhAIdhCZOn1fLsig7jfvCCPHZckU8H3G11_z-_OZqD5_rQ-M-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/geologica/v4/oY1o8evIr7j9P3TN9YwNAdyjzUyDKkKdAGOJh1UlCDUIhAIdhCZOn1fLsig7jfvCCPHZckU8H3G11_z-_OZqD5_sQ-M.ttf
+File Name: C:\Downloaded Web Sites\www.glaciersoftware.xyz\s\geologica\v4\oY1o8evIr7j9P3TN9YwNAdyjzUyDKkKdAGOJh1UlCDUIhAIdhCZOn1fLsig7jfvCCPHZckU8H3G11_z-_OZqD5_sQ-M-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/geologica/v4/oY1o8evIr7j9P3TN9YwNAdyjzUyDKkKdAGOJh1UlCDUIhAIdhCZOn1fLsig7jfvCCPHZckU8H3G11_z-_OZqD7bsQ-M.ttf
+File Name: C:\Downloaded Web Sites\www.glaciersoftware.xyz\s\geologica\v4\oY1o8evIr7j9P3TN9YwNAdyjzUyDKkKdAGOJh1UlCDUIhAIdhCZOn1fLsig7jfvCCPHZckU8H3G11_z-_OZqD7bsQ-M-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/geologica/v4/oY1o8evIr7j9P3TN9YwNAdyjzUyDKkKdAGOJh1UlCDUIhAIdhCZOn1fLsig7jfvCCPHZckU8H3G11_z-_OZqD8HsQ-M.ttf
+File Name: C:\Downloaded Web Sites\www.glaciersoftware.xyz\s\geologica\v4\oY1o8evIr7j9P3TN9YwNAdyjzUyDKkKdAGOJh1UlCDUIhAIdhCZOn1fLsig7jfvCCPHZckU8H3G11_z-_OZqD8HsQ-M-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/geologica/v4/oY1o8evIr7j9P3TN9YwNAdyjzUyDKkKdAGOJh1UlCDUIhAIdhCZOn1fLsig7jfvCCPHZckU8H3G11_z-_OZqDx_qQ-M.ttf
+File Name: C:\Downloaded Web Sites\www.glaciersoftware.xyz\s\geologica\v4\oY1o8evIr7j9P3TN9YwNAdyjzUyDKkKdAGOJh1UlCDUIhAIdhCZOn1fLsig7jfvCCPHZckU8H3G11_z-_OZqDx_qQ-M-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/geologica/v4/oY1o8evIr7j9P3TN9YwNAdyjzUyDKkKdAGOJh1UlCDUIhAIdhCZOn1fLsig7jfvCCPHZckU8H3G11_z-_OZqDx_rQ-M.ttf
+File Name: C:\Downloaded Web Sites\www.glaciersoftware.xyz\s\geologica\v4\oY1o8evIr7j9P3TN9YwNAdyjzUyDKkKdAGOJh1UlCDUIhAIdhCZOn1fLsig7jfvCCPHZckU8H3G11_z-_OZqDx_rQ-M-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/geologica/v4/oY1o8evIr7j9P3TN9YwNAdyjzUyDKkKdAGOJh1UlCDUIhAIdhCZOn1fLsig7jfvCCPHZckU8H3G11_z-_OZqDy3rQ-M.ttf
+File Name: C:\Downloaded Web Sites\www.glaciersoftware.xyz\s\geologica\v4\oY1o8evIr7j9P3TN9YwNAdyjzUyDKkKdAGOJh1UlCDUIhAIdhCZOn1fLsig7jfvCCPHZckU8H3G11_z-_OZqDy3rQ-M-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/geologica/v4/oY1o8evIr7j9P3TN9YwNAdyjzUyDKkKdAGOJh1UlCDUIhAIdhCZOn1fLsig7jfvCCPHZckU8H3G11_z-_OZqD_jsQ-M.ttf
+File Name: C:\Downloaded Web Sites\www.glaciersoftware.xyz\s\geologica\v4\oY1o8evIr7j9P3TN9YwNAdyjzUyDKkKdAGOJh1UlCDUIhAIdhCZOn1fLsig7jfvCCPHZckU8H3G11_z-_OZqD_jsQ-M-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/libertinusmath/v1/Gw6iwc3770TVMoHVurPejWtfenRLvw.ttf
+File Name: C:\Downloaded Web Sites\www.glaciersoftware.xyz\s\libertinusmath\v1\Gw6iwc3770TVMoHVurPejWtfenRLvw-2.ttf
+Content Type: font/ttf
+
+Uri: https://i.ibb.co/1JsscngM/image.png
+File Name: C:\Downloaded Web Sites\www.glaciersoftware.xyz\1JsscngM\image-2.png
+Content Type: image/png
+
+Uri: https://i.ibb.co/dwTbJzhp/image.png
+File Name: C:\Downloaded Web Sites\www.glaciersoftware.xyz\dwTbJzhp\image-2.png
+Content Type: image/png
+
+Uri: https://i.ibb.co/Rpn1D43H/B06-Glacier.png
+File Name: C:\Downloaded Web Sites\www.glaciersoftware.xyz\Rpn1D43H\B06-Glacier-2.png
+Content Type: image/png
+
+Uri: https://i.ibb.co/svTDsfG9/image.png
+File Name: C:\Downloaded Web Sites\www.glaciersoftware.xyz\svTDsfG9\image-2.png
+Content Type: image/png
+
+Uri: https://i.ibb.co/Xx9mWpB8/image.png
+File Name: C:\Downloaded Web Sites\www.glaciersoftware.xyz\Xx9mWpB8\image-2.png
+Content Type: image/png
+
+Uri: https://i.ibb.co/YSw9SBQ/image.png
+File Name: C:\Downloaded Web Sites\www.glaciersoftware.xyz\YSw9SBQ\image-2.png
+Content Type: image/png
+
+Uri: https://i.ibb.co/Z6kcwRb7/Valorant-Glacier.png
+File Name: C:\Downloaded Web Sites\www.glaciersoftware.xyz\Z6kcwRb7\Valorant-Glacier-2.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/9FmcCx6.png
+File Name: C:\Downloaded Web Sites\www.glaciersoftware.xyz\9FmcCx6-2.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/kxG4AUt.png
+File Name: C:\Downloaded Web Sites\www.glaciersoftware.xyz\kxG4AUt-2.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/NUj4vtj.png
+File Name: C:\Downloaded Web Sites\www.glaciersoftware.xyz\NUj4vtj-2.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/pDACTZJ.png
+File Name: C:\Downloaded Web Sites\www.glaciersoftware.xyz\pDACTZJ-2.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/R0MYZ1u.png
+File Name: C:\Downloaded Web Sites\www.glaciersoftware.xyz\R0MYZ1u-2.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/RYHz4YB.png
+File Name: C:\Downloaded Web Sites\www.glaciersoftware.xyz\RYHz4YB-2.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/S8vn0CR.png
+File Name: C:\Downloaded Web Sites\www.glaciersoftware.xyz\S8vn0CR-2.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/UZFJNzW.png
+File Name: C:\Downloaded Web Sites\www.glaciersoftware.xyz\UZFJNzW-2.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/wn17ZDb.png
+File Name: C:\Downloaded Web Sites\www.glaciersoftware.xyz\wn17ZDb-2.png
+Content Type: image/png
+
+Uri: https://www.glaciersoftware.xyz/
+File Name: C:\Downloaded Web Sites\www.glaciersoftware.xyz\index.htm
+Content Type: text/html
+
